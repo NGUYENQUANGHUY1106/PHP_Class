@@ -1,0 +1,35 @@
+.div
+{
+    width: 400px;
+    border: 2px solid rgb(199, 14, 14);
+}
+.div h1
+{
+    font-size: 20px;
+    text-align: center;
+}
+form input
+{
+    width: 200px;
+    margin: 5px 10px;
+}
+form label
+{
+    margin: 5px;
+    text-wrap: nowrap;
+}
+.button
+{
+    text-align: center;
+    
+}
+.button input:hover
+{
+    background-color: red;
+    color: black;
+}
+.error
+{
+    color: red;
+    font-weight: bold;
+}
