@@ -1,0 +1,15 @@
+.main
+{
+    width: 500px;
+    height: 250px;
+    border: 1px solid ;
+}
+.header p
+{ 
+    margin-top: 0;
+    padding-top: 5px;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(35, 228, 228);
+}
